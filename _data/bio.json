@@ -1,6 +1,6 @@
 {
   "basics": {
-    "name": "Khloe Valera",
+    "name": "\033[35mKhloe Valera",
     "label": "Student",
     "picture": "https://github.com/aliavalera.png",
     "email": "khloev@hawaii.edu",
@@ -18,7 +18,7 @@
     { "name": "Data Science" },
     { "name": "Community-Centered Design" },
     { "name": "Interactive Media" },
-    { "name": "Software Engineering" }
+    { "name": "Reading" }
   ],
   "skills": [
     {
