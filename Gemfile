@@ -1,6 +1,5 @@
 source "https://rubygems.org"
 
-gem 'nokogiri', '>= 1.16'
 gem "jekyll", "~> 4.3.3"
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem and associated library.
