@@ -44,16 +44,16 @@
       "institution": "Leeward Community College, Pearl City, HI",
       "area": "Natural Science, Information and Computer Science",
       "studyType": "A.S.",
-      "startDate": "2023-09-01",
-      "endDate": "2025-05-31",
+      "startDate": "",
+      "endDate": "2024-09-31",
       "courses": [
       ]
     },
     {
       "institution": "Kamehameha Schools Kapālama, Honolulu, HI",
       "area": "",
-      "studyType": "Diploma",
-      "startDate": "2018-08-01",
+      "studyType": "High School Diploma",
+      "startDate": "",
       "endDate": "2020-05-31"
     }
   ],
