@@ -5,7 +5,7 @@ title: Khloe Valera | Professional Portfolio
 url: "https://aliavalera.github.io"
 # Edit next line so that baseurl is "" if your repo is <username>.github.io
 baseurl: ""
-
+ 
 # OPTIONAL CHANGES
 ## Specify the theme using any of the css files in css/techfolio-theme
 techfolio-theme: default.css
