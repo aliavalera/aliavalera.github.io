@@ -1,13 +1,13 @@
 {
   "basics": {
-    "name": "\033[35mKhloe Valera",
+    "name": "Khloe Valera",
     "label": "Student",
     "picture": "https://github.com/aliavalera.png",
     "email": "khloev@hawaii.edu",
     "phone": "808-421-7107",
     "website": "https://aliavalera.github.io",
     "summary": "I am an undergraduate student pursuing Computer Science at the University of Hawaiʻi at Mānoa. My projected graduation is Fall 2027.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "location": { "address": "", "postalCode": "96797", "city": "Waipahu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "aliavalera", "url": "http://github.com/aliavalera" },
       { "network": "linkedin", "username": "khloevale", "url": "http://linkedin.com/in/khlovale" }
@@ -27,86 +27,49 @@
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "MacOS", "Ubuntu", "GCC(g++)"]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
+      "institution": "University of Hawaiʻi at Mānoa, Honolulu, HI",
       "area": "Computer Science (expected fall, 2027)",
       "studyType": "B.S.",
-      "startDate": "2024-09-01",
+      "startDate": "2025-09-01",
       "endDate": "Present",
       "courses": [
       ]
+    },
+    {
+      "institution": "Leeward Community College, Pearl City, HI",
+      "area": "Natural Science, Information and Computer Science",
+      "studyType": "A.S.",
+      "startDate": "2023-09-01",
+      "endDate": "2025-05-31",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "Kamehameha Schools Kapālama, Honolulu, HI",
+      "area": "",
+      "studyType": "Diploma",
+      "startDate": "2018-08-01",
+      "endDate": "2020-05-31"
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Aiea Copy Center",
+      "position": "Production Worker",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2023-12-04",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
-      "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
-      ]
-    },
-    {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
-      ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Operate print machines and perform finishing tasks",
+        "Assist customers with orders and maintain equipment"
       ]
     },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
-      ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
-    }
   ],
   "references": [
     {
