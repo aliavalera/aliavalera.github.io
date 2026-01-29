@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/rightcircularcylinder1-265x300.jpg
+image: img/geometry.webp
 title: "Circle & Cylinder"
 date: 2025-04-29
 published: true
@@ -12,7 +12,7 @@ labels:
 summary: "This C++ program developed in ICS 212 calculates and displays the radius, area, surface area, and volume for Circle and Cylinder objects."
 ---
 
-<img class="img-fluid" src="../img/cotton/cotton-header.png">
+<img class="img-fluid" src="../img/SurfaceArea.png">
 
 Circle and Cylinder is a C++ project I developed to practice object-oriented programming and explore inheritance and method overriding. The program models circle and cylinder classes, calculates area, surface area, and volume, and automatically corrects invalid inputs like negative or zero values. 
 
