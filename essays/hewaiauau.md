@@ -12,7 +12,7 @@ labels:
   <img width="900px" class="rounded mx-auto d-block" src="../img/makahaicypond.jpg">
 </div>
 
-# _**He wai ʻauʻau**: bath water, a bathing pool, or a place suitable for swimming/washing_
+## _**He wai ʻauʻau**: bath water, a bathing pool, or a place suitable for swimming/washing_
 
 “*He wai ʻauʻau*” is an ʻōlelo noʻeau I was introduced to this semester in my Hawaiian language course, commonly used to describe something that is easy or effortless. I found myself reflecting on this phrase and questioning whether it applied to my (very short) experience in learning Typescript. While I understand the fundamental concepts, writing code in this language required more than I initially expected. 
 
