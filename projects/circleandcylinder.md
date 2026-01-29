@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image: img/cylinderpic.jpg
 title: "Circle & Cylinder"
 date: 2025-04-29
 published: true
@@ -20,7 +20,7 @@ I tested the classes by creating objects with preset values and verifying the ca
 
 In the future, the program could be extended to take user input and include additional shapes, making it a more flexible and reusable tool. This project was a great way to apply the programming concepts I’ve learned while designing classes that are both robust and practical. 
 
-Here is a sample output demonstrating the results of a single execution of the program.
+Here is a sample output demonstrating the results of a single execution of the program:
 
 <hr>
 
