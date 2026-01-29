@@ -8,8 +8,9 @@ published: true
 labels:
   - My Reflection on Typescript
 ---
-
-<img width="800px" class="rounded float-start pe-4" src="../img/makahaicypond.jpg">
+<div class="text-center p-4">
+  <img width="800px" class="rounded float-start pe-4" src="../img/makahaicypond.jpg">
+</div>
 
 # _**He wai ʻauʻau**: bath water, a bathing pool, or a place suitable for swimming/washing_
 
