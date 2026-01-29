@@ -9,7 +9,7 @@ labels:
   - C++
   - Mensuration
   - OOP
-summary: "This C++ program developed in ICS 212 calculates and displays the radius, area, surface area, and volume for Circle and Cylinder objects."
+summary: "This program I developed in ICS 212 calculates and displays the radius, area, surface area, and volume for Circle and Cylinder objects."
 ---
 
 <img class="img-fluid" src="../img/SurfaceArea.png">
