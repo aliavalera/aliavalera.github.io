@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cylinderpic.jpg
+image: img/rightcircularcylinder1-265x300.jpg
 title: "Circle & Cylinder"
 date: 2025-04-29
 published: true
