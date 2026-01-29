@@ -9,9 +9,9 @@ labels:
   - My Reflection on Typescript
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/makahaicypond.jpg">
+<img width="800px" class="rounded float-start pe-4" src="../img/makahaicypond.jpg">
 
-* **He wai ʻauʻau**: bath water, a bathing pool, or a place suitable for swimming/washing*
+# _**He wai ʻauʻau**: bath water, a bathing pool, or a place suitable for swimming/washing_
 
 “*He wai ʻauʻau*” is an ʻōlelo noʻeau I was introduced to this semester in my Hawaiian language course, commonly used to describe something that is easy or effortless. I found myself reflecting on this phrase and questioning whether it applied to my experience in learning Typescript. While I understand the fundamental concepts, writing code in this language requires more effort, time, and focus than I initially expected.
 
