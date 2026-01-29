@@ -9,7 +9,7 @@ labels:
   - My Reflection on Typescript
 ---
 <div class="text-center p-4">
-  <img width="900px" class="rounded float-start pe-4" src="../img/makahaicypond.jpg">
+  <img width="900px" class="rounded mx-auto d-block" src="../img/makahaicypond.jpg">
 </div>
 
 # _**He wai ʻauʻau**: bath water, a bathing pool, or a place suitable for swimming/washing_
