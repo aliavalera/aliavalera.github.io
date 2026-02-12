@@ -9,7 +9,7 @@ labels:
   - Reflection of Coding Standards 
 ---
 
-<img width="400px" class="rounded float-start pe-4" src="../img/iwabird.png">
+<img width="300px" class="rounded float-start pe-4" src="../img/iwabird.png">
 
 Using ESLint with VSCode has changed the way I write code. At first, I felt frustrated by all the warnings and errors. I quickly realized they help me catch patterns I might miss and guide me toward cleaner, more consistent code. Each suggestion sharpens my habits and gradually makes my programs easier to read and maintain.
 
