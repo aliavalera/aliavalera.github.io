@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "He wai ʻauʻau?"
+title: "He wai ʻauʻau"
 # All dates must be YYYY-MM-DD format!
 date: 2025-01-28
 published: true
