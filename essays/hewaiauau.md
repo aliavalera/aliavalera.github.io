@@ -6,7 +6,7 @@ title: "He wai ʻauʻau"
 date: 2025-01-28
 published: true
 labels:
-  - My Reflection on Typescript
+  - Reflection on Typescript
 ---
 <div class="text-center p-4">
   <img width="900px" class="rounded mx-auto d-block" src="../img/makahaicypond.jpg">
