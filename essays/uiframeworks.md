@@ -8,9 +8,11 @@ published: true
 labels:
   - Reflection on UI Frameworks
 ---
+<div class="text-center p-4">
+  <img width="200px" class="rounded float-start pe-4" src="../img/myattempt.png">
+  <img width="200px" class="rounded float-start pe-4" src="../img/real.png">
+</div>
 
-<img width="200px" class="rounded float-start pe-4" src="myattempt.png">
-<img width="200px" class="rounded float-start pe-4" src="real.png">
 
 ## Preconceptions about UI Frameworks
 
