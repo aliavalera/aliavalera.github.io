@@ -4,51 +4,35 @@ type: essay
 title: "Finding Creativity within Technical Rigor"
 # All dates must be YYYY-MM-DD format!
 date: 2026-02-26
-published: false
+published: true
 labels:
   - Reflection on UI Frameworks
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="">
+<img width="200px" class="rounded float-start pe-4" src="myattempt.png">
+<img width="200px" class="rounded float-start pe-4" src="real.png">
 
-*Difficulty: a thing that is hard to accomplish, deal with, or understand.*
+## Preconceptions about UI Frameworks
 
-One of my friends asked the question earlier last week -- why is it so hard to be an officer for the student branch? Why is so hard compared to working at my on-campus job? This question came after he struggled a little with bookkeeping for the student organization.
+Over the past few weeks, I had the opportunity to explore and apply Bootstrap 5 through a series of assignments ranging in difficulty. Up until this point, my coding experience had been strictly functional, so transitioning to a UI framework required stepping into unfamiliar territory. 
+Coding with a framework was not as effortless as the final results might suggest. I had to learn new syntax, patterns, conventions, and constraints. In many ways, it felt like learning a new programming language, and it was easy to get lost in the guidelines and the extensive features Bootstrap offers.
 
-Now I gave him the standard answer - being an officer of an organization requires that you manage your time between school and work. There isn't anyone telling you what to do. It's the answer any good mentor would give, and is mostly true.
+## Mobile-First Design
 
-But the more I though about it, the more I wondered to myself...damn that's a really great question; it's one that deserves some more thought. Most people I think stop at the answer I gave previously - he obviously isn't managing his time properly.
+Although the framework initially felt overwhelming—especially given the time constraints in this class—I have come to appreciate the structure, scalability, and efficiency that it provides. Bootstrap is extremely convenient for developing webpage layouts while enforcing discipline that ensures maintainability. 
 
-Here's what I think: the difficult things will always be difficult.
+Its mobile-first design approach is particularly appealing for beginners in web design and HTML/CSS, as it saves considerable work and automatically adapts content for different devices. Looking ahead, I see frameworks as an ideal choice for web development, especially as mobile devices continue to become the predominant interface globally.
 
-## In the context of programming
+## Critiques
 
-In the context of programming, this has always been true. The difficult problems have always been different, although changes in technology can change the landscape quite a bit. "Business" type applications are the things that come to mind for me. Those types of applications are usually coupled in some way with people ... and people are awfully hard to deal with!
+Despite these advantages, there are some drawbacks. For very small projects, including the entire framework can feel bloated. Customizing beyond the default styles can be frustrating, as it often requires overriding multiple classes. 
+Additionally, upgrading to newer versions may require refactoring existing code, which adds to maintenance overhead.
 
-Consider that one of the most popular content management systems is also considered the most horrible - Wordpress. But really, is there anything that fills that need? If it was so easy in the first place, where is the solution? Where's the magic CMS that is designed well enough that everyone hops on the boat to use it?
+## Is Front-End Developement for Me?
 
-Some things are just difficult - building applications that humans use is hard, and will probably be hard for at least the near future.
+Although my experience with Bootstrap 5 has been challenging due to my relative inexperience, I thoroughly enjoyed bridging the gap between creativity and functionality. Reading articles like 7 Rules for Creating Gorgeous UI and Clean Up Your Mess: A Guide to Visual Design for Everyone helped me draw parallels between web design and my work at a print shop, where we carefully review digital designs for errors before printing. Similarly, in front-end development, I must ensure that the output matches the envisioned result.
 
-## In the context of engineering
+Overall, this experience has reinforced my interest in front-end development, and I am excited to continue learning, particularly as we move into more functionality-focused aspects of the course.
 
-Ever hear people ragging on engineering companies for delivering late and way over budget? Well, some engineering jobs are really difficult, especially if the requirements and funding are undulating underneath you. Because of the nature of the problem, sometimes engineering firms require large amounts of engineers and workers, inviting further problems and delays.
 
-The Honolulu Rail project at home has become this sort of poster child of failure, budget overrun and overall incompetence in Hawaii. Well, working though regulatory boards and fiscal procedures in Hawaii seems like it's a mind bogglingly difficult job to do. Granted, there might be some fishy stuff going on, but I refuse to believe that everyone is involved for nefarious reasons.
 
-The problem of creating an unprecedented public transportation backbone on an island is difficult! I'm not sure we would have done it right, even if the best people were involved.
-
-## In the context of relationships
-
-So in the end, we realize that all engineering and programming is there for a reason - to serve human needs. Maybe that's why those things are difficult, because they both involve humans and are for humans.
-
-Relationships, regardless if they're romantic or not take work. Humans are fickle creatures and relationships can come and go with the wind. To properly maintain something over time requires work. Family takes work. Marriage takes work. We live to figure out what works and what doesn't and hope that as we move forward we're improving.
-
-Relationships have always been difficult, and by nature will continue to be so.
-
-## Okay!
-
-So back to the original premise; why is being one of the club officers so difficult?
-
-And the final answer - it's supposed to be difficult, and it's supposed to challenge you, just like everything else that humans do that is difficult: programming, engineering, engaging in relationships, pondering the universe, etc.
-
-Ultimately the question you should really ask yourself if something if particularly difficult is then "is it worth it"? That is something that is context specific and only you can answer yourself.
