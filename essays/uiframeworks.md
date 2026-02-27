@@ -10,10 +10,10 @@ labels:
 ---
 <div class="row" style="display: flex; margin-top: 40px; margin-bottom: 40px;">
   <div class="col">
-    <img width="400px" class="rounded mx-auto d-block" src="../img/myattempt.png">
+    <img width="500px" class="rounded mx-auto d-block" src="../img/myattempt.png">
   </div>
   <div class="col">
-      <img width="400px" class="rounded mx-auto d-block" src="../img/real.png">
+      <img width="500px" class="rounded mx-auto d-block" src="../img/real.png">
   </div>
 </div>
 
