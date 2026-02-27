@@ -9,8 +9,8 @@ labels:
   - Reflection on UI Frameworks
 ---
 <div class="text-center p-4">
-  <img width="200px" class="rounded float-start pe-4" src="../img/myattempt.png">
-  <img width="200px" class="rounded float-start pe-4" src="../img/real.png">
+  <img width="500px" class="rounded mx-auto d-block" src="../img/myattempt.png">
+  <img width="500px" class="rounded mx-auto d-block" src="../img/real.png">
 </div>
 
 
