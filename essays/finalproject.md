@@ -22,44 +22,30 @@ Disclaimer: This proposal represents my original thinking and research; I levera
 
 ## Approach
 To use SkillSwap, a student must log in and create a profile. In their profile, they list:
-
-•         Skills they can teach (e.g., surfing, video editing, guitar, coding)
-
-•         Skills they want to learn
-
-•         Availability for meetups (in-person or virtual)
-
-•         A short bio and optional profile photo
+  • Skills they can teach (e.g., surfing, video editing, guitar, coding)
+  • Skills they want to learn
+  • Availability for meetups (in-person or virtual)
+  • A short bio and optional profile photo
 
 
 Each student becomes both a mentor and learner, depending on the skill.
 
 
 Another section of the site organizes skills into categories (e.g., Academics, Arts, Technology, Life Skills). Within each category:
-
-•         Users can browse available “mentors” and “learners”
-
-•         Each skill listing shows who is offering help and who is requesting it
-
-  
+  • Users can browse available “mentors” and “learners”
+  • Each skill listing shows who is offering help and who is requesting it
+ 
 A student can create a Skill Session, which includes:
-
-•         The skill/topic (e.g., “Intro to Crocheting” or “Basic guitar chords”)
-
-•         Type of session (teaching or collaborative)
-
-•         Time and location (or virtual link)
-
-•         Number of participants allowed
+  • The skill/topic (e.g., “Intro to Crocheting” or “Basic guitar chords”)
+  • Type of session (teaching or collaborative)
+  • Time and location (or virtual link)
+  • Number of participants allowed
 
   
 This session generates notifications to relevant users who either:
+  • Want to learn that skill, or
+  • Have listed that skill as something they can teach
 
-•         Want to learn that skill, or
-
-•         Have listed that skill as something they can teach
-
-  
 Users can respond by joining the session.
 
 There is also a calendar system that displays all upcoming sessions, along with participant lists.
@@ -75,27 +61,16 @@ It is not meant to replace classroom learning or formal tutoring systems. Instea
 
 ## Mockup page ideas
 Some possible mockup pages include:
-
-•         Landing page
-
-•         User home/dashboard
-
-•         Admin dashboard
-
-•         User profile page
-
-•         Skill browsing page (by category)
-
-•         Create Skill Session page
-
-•         Session details page
-
-•         Calendar page
-
-•         Notifications page
-
-•         Game mechanics page (badges, leaderboard, levels)
-
+  • Landing page
+  • User home/dashboard
+  • Admin dashboard
+  • User profile page
+  • Skill browsing page (by category)
+  • Create Skill Session page
+  • Session details page
+  • Calendar page
+  • Notifications page
+  • Game mechanics page (badges, leaderboard, levels)
 
 ## Use case ideas
 New user visits landing page, logs in, and creates a profile (How do they discover how SkillSwap works?)
@@ -107,15 +82,10 @@ User checks their progress (points, badges, level)
 
 ## Beyond the basics
 After implementing core features, here are ideas for advanced functionality:
-
-•         Text message notifications for session updates and confirmations
-
-•         Integration with school platforms (e.g., Google Classroom or Slack)
-
-•         AI-powered skill matching (suggest people you should connect with)
-
-•         Reputation system based on ratings and feedback
-
-•         Mini skill courses (structured multi-session learning paths)
-•         QR code check-ins for session attendance verification
+  • Text message notifications for session updates and confirmations
+  • Integration with school platforms (e.g., Google Classroom or Slack)
+  • AI-powered skill matching (suggest people you should connect with)
+  • Reputation system based on ratings and feedback
+  • Mini skill courses (structured multi-session learning paths)
+  • QR code check-ins for session attendance verification
 	
