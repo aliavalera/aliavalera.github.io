@@ -22,10 +22,10 @@ Disclaimer: This proposal represents my original thinking and research; I levera
 
 ## Approach
 To use SkillSwap, a student must log in and create a profile. In their profile, they list:
-  • Skills they can teach (e.g., surfing, video editing, guitar, coding)
-  • Skills they want to learn
-  • Availability for meetups (in-person or virtual)
-  • A short bio and optional profile photo
+  - Skills they can teach (e.g., surfing, video editing, guitar, coding)
+  - Skills they want to learn
+  - Availability for meetups (in-person or virtual)
+  - A short bio and optional profile photo
 
 
 Each student becomes both a mentor and learner, depending on the skill.
