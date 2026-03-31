@@ -9,21 +9,21 @@ labels:
 ---
 <div class="row" style="display: flex; margin-top: 40px; margin-bottom: 40px;">
   <div class="col">
-    <img width="500px" class="rounded mx-auto d-block" src="../img/discussion.jpg">
+    <img width="200px" class="rounded mx-auto d-block" src="../img/discussion.jpg">
   </div>
 </div>
 
-### Project: Study Guide (WIP)
+## Project: Study Guide (WIP)
 
-## Authors
+### Authors
 Michaela Gillan, Khloe Valera, Marie Wong
 
-## Overview
+### Overview
 *The problem*: Every semester students are forced to jump into new topics. They sometimes don’t know exactly what and how to study to optimize their time and efforts, and may not know what they’re signing up for before registering. 
 
 *The solution*: Study Guide is an application for UHM students to collaboratively create guides for various courses. These guides will be evaluated and approved by a professor and can possibly be used to generate extra credit for the submitter.
 
-## Approach
+### Approach
 To use Study Guide a student must login and set up their account. Their home page is a hub to be able to browse study guides from previous semesters and sign up as current course takers.
 
 Teachers using Study Guide will also have to login and set up their teacher account. Once verified they will be able to opt-in their course and can approve or reject study guides.
@@ -50,7 +50,7 @@ Design goals:
 
 Other applications such as Discord, Piazza, and Lamakū offer online help and resources. Study Guide organically facilitates study guide development for students to access in an organized way and enables future students to get a sneak peek at what the course will cover and its workload.
 
-## Mockup page ideas
+### Mockup page ideas
 - Some possible mockup pages include:
 - Landing Page
 - Login/Register
@@ -62,7 +62,7 @@ Other applications such as Discord, Piazza, and Lamakū offer online help and re
 - Study Guides page
 - Kudos/Leaderboard page
   
-## Use case ideas
+### Use case ideas
 - New user goes to landing page, logs in, gets home page, sets up profile, goes through tutorial to add/search for courses and make a mock study guide.
 - Teacher goes to landing page, logs in, and opts-in their course
 - Admin goes to landing page, logs in, gets home page, edits site.
@@ -71,9 +71,9 @@ Other applications such as Discord, Piazza, and Lamakū offer online help and re
 - Student is notified of study guide acceptance or , is able to log in and make edits if needed
 - Student checks their status with respect to extra credit and/or game mechanics.
 
-## Beyond the basics
+### Beyond the basics
 After implementing the basic functionality, here are ideas for more advanced features:
 - Quiz. Different sections of the guide can be transformed into a flash card format where students are prompted with a term and have to recall a definition. Similarly, instructors can choose specific sentences in a study guide and create fill-in-the-blank portions.
   
-## Team Members
+### Team Members
 This proposal was created as a collaborative effort by the authors.
