@@ -51,8 +51,8 @@ Users can respond by joining the session.
 There is also a calendar system that displays all upcoming sessions, along with participant lists.
 
 There are two main styles of use for SkillSwap:
-1. Planned Learning: A student schedules a session in advance to learn or teach a skill. Others can sign up ahead of time.
-2. Instant Help (“Right Now” Mode): A student needs immediate help (e.g., stuck on homework or practicing a skill). They can create a “Right Now” request, notifying nearby or available users for quick assistance.
+1. Planned Learning:A student schedules a session in advance to learn or teach a skill. Others can sign up ahead of time.
+2. Instant Help (“Right Now” Mode):A student needs immediate help (e.g., stuck on homework or practicing a skill). They can create a “Right Now” request, notifying nearby or available users for quick assistance.
 
 
 SkillSwap addresses the challenge of students feeling hesitant to share or ask for help by using game mechanics such as points, badges, levels, and leaderboards to encourage participation, along with optional rewards for active users. To prevent misuse, the platform includes attendance verification, session ratings, and admin monitoring to ensure meaningful participation and avoid fake sessions. Administrators also oversee user activity, manage reports, and maintain a safe environment. Overall, SkillSwap is designed to promote peer-to-peer learning, build a stronger community, increase confidence in both teaching and learning, support in-person and virtual collaboration, and ensure an inclusive and safe space for all students.
