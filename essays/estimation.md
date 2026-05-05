@@ -9,7 +9,7 @@ labels:
   - Reflection on Effort Estimation
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/timer.png">
+<img width="300px" class="text-center rounded float-start pe-4" src="../img/timer.png">
 
 Much like the evolution of design patterns, my approach to effort estimation for my final project was built on pattern recognition and comparative analysis. I broke tasks into smaller, manageable pieces to better evaluate complexity. Due to my limited experience, I referenced historical data from past assignments (WODs) in my software engineering class to improve accuracy calculations. By analyzing the relative complexity of each task, I was able to transform vague goals into measurable effort.
 

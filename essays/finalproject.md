@@ -7,8 +7,6 @@ labels:
   - Software Engineering
   - Nextjs
 ---
-Disclaimer: This proposal represents my original thinking and research; I leveraged generative AI strictly as a sophisticated editor to polish the delivery of my ideas.
-
 <div class="row" style="display: flex; margin-top: 40px; margin-bottom: 40px;">
   <div class="col">
     <img width="500px" class="rounded mx-auto d-block" src="../img/skillharbour_intro_video.png__940x499_q85_crop_upscale.png">
@@ -89,3 +87,6 @@ After implementing core features, here are ideas for advanced functionality:
   - Mini skill courses (structured multi-session learning paths)
   - QR code check-ins for session attendance verification
 	
+--- 
+
+Disclaimer: This proposal represents my original thinking and research; I leveraged generative AI strictly as a sophisticated editor to polish the delivery of my ideas.
