@@ -27,6 +27,4 @@ In the book _He Lei Aloha ʻĀina_, Mehana Blaich Vaughan likens her research to
 
 <hr>
 
----
-
 Presentation available upon request.

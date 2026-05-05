@@ -50,6 +50,4 @@ volume = 0
 
 <hr>
 
----
-
 Source code available upon request. 

@@ -25,6 +25,5 @@ I interviewed my uncle Ikaika, a kumu hula at an elementary school in Maui who h
 # Insight
 Completing this project helped me develop skills in planning, organization, time management, and storytelling through visual media. I learned how to conduct meaningful interviews, capture and edit footage to tell a cohesive story, and deliver a professional project from start to finish.
  
----
 
 Vide available upon request.
