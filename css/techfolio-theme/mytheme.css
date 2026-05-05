@@ -11,13 +11,13 @@
   --tf-blue3: #7dc6db;
   --tf-blue4: #f5f0f8;
   --bs-font-sans-serif: "Lora", sans-serif;
-  --bs-link-color: var(--tf-blue2);
+  --bs-link-color: var(--tf-blue1);
   --tf-pill-bg: var(--tf-blue1);
-  --tf-icon-fill: var(--tf-blue2);
+  --tf-icon-fill: var(--tf-blue1);
   --tf-icon-hover: var(--tf-blue3);
-  --tf-page-bg-color: var(--tf-blue4);
+  --tf-page-bg-color: var(--bs-white);
   --tf-footer-bg-color: var(--tf-blue4);
-  --tf-projects-bg-color: var(--tf-blue3);
+  --tf-projects-bg-color: var(--tf-blue4);
 }
 
 h1,h2,h3,h4,h5 {
@@ -28,7 +28,7 @@ h1,h2,h3,h4,h5 {
 /* Format social media icons */
 .tf-social {
   display: inline-block;
-  fill: var(--tf-blue2);
+  fill: var(--tf-blue1);
   height: 1.5em;
   vertical-align: -.1em;
   width: 1.5em;
