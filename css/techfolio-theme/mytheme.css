@@ -6,22 +6,25 @@
 
 /* See https://getbootstrap.com/docs/5.2/customize/css-variables/#root-variables for variables to override. */
 :root {
-  --tf-blue1: #276c6b;
+  --tf-blue1: #135e5d;
   --tf-blue2: #7dc6db;
-  --tf-blue3: #6d4f87;
+  --tf-blue3: #702670;
   --tf-blue4: #f5f0f8;
-  --bs-font-sans-serif: "Lora", sans-serif;
-  --bs-link-color: var(--tf-blue1);
+  --bs-font-sans-serif: "Gelasio", sans-serif;
+  --bs-link-color: black;
   --tf-pill-bg: var(--tf-blue1);
-  --tf-icon-fill: var(--tf-blue1);
-  --tf-icon-hover: var(--tf-blue3);
+  --tf-icon-fill: black;
+  --tf-icon-hover: var(--tf-blue2);
   --tf-page-bg-color: white;
-  --tf-footer-bg-color: var(--tf-blue3);
+  --tf-footer-bg-color:white;
   --tf-projects-bg-color: var(--tf-blue4);
 }
-
-h1,h2,h3,h4,h5 {
-  color: var(--tf-blue1);
+h1 {
+  color: var(--tf-blue3);
+  font-family: "Lora", serif;
+}
+h2,h3,h4,h5 {
+  color: black;
   font-family: "Gelasio", serif;
 }
 
@@ -54,7 +57,7 @@ a {
 }
 
 .rounded-circle {
-  border-color: var(--tf-blue2);
+  border-color: var(--tf-blue3);
   border-style: solid;
   border-width: 1px;
 }
