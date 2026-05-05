@@ -89,4 +89,4 @@ After implementing core features, here are ideas for advanced functionality:
 	
 --- 
 
-Disclaimer: This proposal represents my original thinking and research; I leveraged generative AI strictly as a sophisticated editor to polish the delivery of my ideas.
+Note: I utilized AI tools in the creation of this essay for grammar and clarification purposes only. My thoughts and ideas are completely my own.
