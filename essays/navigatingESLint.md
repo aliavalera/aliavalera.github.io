@@ -16,6 +16,7 @@ Using ESLint with VSCode has changed the way I write code. At first, I felt frus
 At the same time, ESLint can slow me down. I sometimes spend more time fixing style issues than focusing on core logic. It feels like a double-edged sword because it enforces professionalism while adding small obstacles in my learning process. Even so, these challenges teach me to think critically about every line I write.
 
 I see ESLint as a tool I need to practice with more to fully understand its recommendations. It pushes me to think carefully about my code and focus on building programs that work as intended. The more I work with it, the more it feels like a guide rather than a burden and shapes me into a more thoughtful and capable programmer.
+
 --- 
 
 Note: I utilized AI tools in the creation of this essay for grammar and clarification purposes only. My thoughts and ideas are completely my own.

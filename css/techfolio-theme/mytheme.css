@@ -6,9 +6,9 @@
 
 /* See https://getbootstrap.com/docs/5.2/customize/css-variables/#root-variables for variables to override. */
 :root {
-  --tf-blue1: #135e5d;
+  --tf-blue1: #4f7942;
   --tf-blue2: #7dc6db;
-  --tf-blue3: #702670;
+  --tf-blue3: #8d4004;
   --tf-blue4: #f5f0f8;
   --bs-font-sans-serif: "Gelasio", sans-serif;
   --bs-link-color: black;
