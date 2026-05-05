@@ -1,0 +1,60 @@
+/* My Theme */
+
+/* Use Open Sans as the default font. */
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Gelasio:ital,wght@0,400..700;1,400..700&display=swap');
+
+/* See https://getbootstrap.com/docs/5.2/customize/css-variables/#root-variables for variables to override. */
+:root {
+  --tf-blue1: #135e5d;
+  --tf-blue2: #c382fb;
+  --tf-blue3: #7dc6db;
+  --tf-blue4: #f5f0f8;
+  --bs-font-sans-serif: "Lora", sans-serif;
+  --bs-link-color: var(--tf-blue2);
+  --tf-pill-bg: var(--tf-blue1);
+  --tf-icon-fill: var(--tf-blue2);
+  --tf-icon-hover: var(--tf-blue3);
+  --tf-page-bg-color: var(--tf-blue4);
+  --tf-footer-bg-color: var(--tf-blue4);
+  --tf-projects-bg-color: var(--tf-blue3);
+}
+
+h1,h2,h3,h4,h5 {
+  color: var(--tf-blue2);
+  font-family: "Gelasio", serif;
+}
+
+/* Format social media icons */
+.tf-social {
+  display: inline-block;
+  fill: var(--tf-blue2);
+  height: 1.5em;
+  vertical-align: -.1em;
+  width: 1.5em;
+  transition: 0.2s;
+}
+
+.tf-social:hover {
+  fill: var(--tf-icon-hover);
+}
+
+a {
+  text-decoration: none;
+}
+
+@media (max-width: 500px) {
+  .navbar-brand {
+    display: none;
+  }
+
+  .navbar-brand-mobile {
+    display: inline;
+  }
+}
+
+.rounded-circle {
+  border-color: var(--tf-blue2);
+  border-style: solid;
+  border-width: 1px;
+}
