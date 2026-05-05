@@ -50,4 +50,6 @@ volume = 0
 
 <hr>
 
-For the full code, visit this [link](https://raw.githubusercontent.com/aliavalera/aliavalera.github.io/refs/heads/main/projects/ValeraKhloe21.cpp).
+---
+
+Source code available upon request. 
