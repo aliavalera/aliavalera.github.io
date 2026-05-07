@@ -4,7 +4,7 @@ type: project
 image: img/sVLogo.png
 title: ""
 date: 2015
-published: false
+published: true
 labels:
   - Next.js
   - React
