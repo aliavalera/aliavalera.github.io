@@ -49,5 +49,3 @@ volume = 0
 </pre>
 
 <hr>
-
-Source code available upon request. 
