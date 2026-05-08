@@ -14,7 +14,7 @@ labels:
 summary: "A collaborative web application developed in ICS 314 for creating and sharing study materials through an extra-credit incentive system."
 ---
 
-<img class="img-fluid" src="../img/sVpage.png">
+<img class="img-fluid" src="">
 
 StudyViser is a collaborative web application that my team and I developed for ICS 314 in Spring 2026. The platform allows students to create and share study materials for their courses while earning extra credit through instructor-approved contributions. It also gives students a centralized place to access organized course resources and better understand course expectations.
 
@@ -24,5 +24,5 @@ Working on StudyViser helped me gain experience in full-stack application develo
 
 The project also introduced me to modern development practices such as automated testing with Playwright, code linting with ESLint, and continuous integration and deployment using GitHub Actions. Through this experience, I strengthened my skills in GitHub collaboration, issue-driven development, and professional software development workflows.
  
-View our<a href="https://study-viser.vercel.app/">deployed</a> app, 
+View our<a href="https://study-viser.vercel.app/"> deployed</a> app, 
 <a href="https://github.com/study-viser/study-viser">repository</a>, and <a href="https://study-viser.github.io/">organization</a> page.

@@ -9,7 +9,7 @@ labels:
   - Reflection on Design Patterns
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/jenga-img.png">
+<img width="200px" class="rounded float-start pe-4" src="../img/designPatterns/jenga-img.png">
 
 There’s a tendency, especially early on, to treat every coding problem like it’s completely new. You write whatever works, move on, and repeat. That approach is fine for small scripts, but it doesn’t scale very far. Eventually, the code becomes harder to change than it was to write in the first place.
 
@@ -18,7 +18,7 @@ What I’ve started to realize is that most of these problems aren’t new at al
 Design patterns aren’t code you copy. They’re general ways of organizing a system so it stays flexible and easier to maintain. They give structure to decisions that might otherwise feel random.
 
 
-## Learning Structure Through Team Workflow
+## From Chaos to Structure: Design Patterns in Practice
 
 In our final project, we didn’t start with design patterns in mind. We were mostly focused on getting features done. Early on, we approached issues pretty randomly—each of us would pick up a task without necessarily understanding how it connected to the rest of the system.
 

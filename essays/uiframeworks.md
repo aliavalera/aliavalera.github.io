@@ -10,36 +10,36 @@ labels:
 ---
 <div class="row" style="display: flex; margin-top: 40px; margin-bottom: 40px;">
   <div class="col">
-    <img width="500px" class="rounded mx-auto d-block" src="../img/myattempt.png">
+    <img width="500px" class="rounded mx-auto d-block" src="../img/uiframeworks/myattempt.png">
   </div>
   <div class="col">
-      <img width="500px" class="rounded mx-auto d-block" src="../img/real.png">
+      <img width="500px" class="rounded mx-auto d-block" src="../img/uiframeworks/real.png">
   </div>
 </div>
 
 
-## Preconceptions about UI Frameworks
+## First Impressions of UI Frameworks
 
-  Over the past few weeks, I had the opportunity to explore and apply Bootstrap 5 through a series of assignments ranging in difficulty. Up until this point, my coding experience had been strictly functional, so transitioning to a UI framework required stepping into unfamiliar territory. 
-    
-Coding with a framework was not as effortless as the final results might suggest. I had to learn new syntax, patterns, conventions, and constraints. In many ways, it felt like learning a new programming language, and it was easy to get lost in the guidelines and the extensive features Bootstrap offers.
+Over the past few weeks, I had the opportunity to explore Bootstrap 5 through a series of assignments that gradually increased in difficulty. Up until this point, my coding experience had been strictly functional, so transitioning to a UI framework meant stepping into genuinely unfamiliar territory.
 
-## Mobile-First Design
+Working with a framework was not as effortless as the final results might suggest. I had to learn new syntax, patterns, conventions, and constraints all at once. In many ways, it felt like picking up a new programming language — it was easy to get lost navigating Bootstrap's extensive documentation and feature set, especially under the time pressure of this class.
 
-  Although the framework initially felt overwhelming—especially given the time constraints in this class—I have come to appreciate the structure, scalability, and efficiency that it provides. Bootstrap is extremely convenient for developing webpage layouts while enforcing discipline that ensures maintainability. 
+## The Case for Mobile-First Design
 
-Its mobile-first design approach is particularly appealing for beginners in web design and HTML/CSS, as it saves considerable work and automatically adapts content for different devices. Looking ahead, I see frameworks as an ideal choice for web development, especially as mobile devices continue to become the predominant interface globally.
+Despite the initial overwhelm, I have come to appreciate the structure, scalability, and efficiency that Bootstrap provides. It streamlines the process of building webpage layouts while enforcing a level of discipline that keeps code maintainable as projects grow.
 
-## Critiques
+Its mobile-first design philosophy is particularly valuable for those newer to web design and HTML/CSS. Rather than retrofitting a desktop layout for smaller screens, Bootstrap encourages designing with mobile in mind from the start — saving considerable effort and ensuring content adapts naturally across devices. As mobile continues to become the dominant way people access the web globally, this approach feels increasingly essential rather than optional.
 
-  Despite these advantages, there are some drawbacks. For very small projects, including the entire framework can feel bloated. Customizing beyond the default styles can be frustrating, as it often requires overriding multiple classes. 
-Additionally, upgrading to newer versions may require refactoring existing code, which adds to maintenance overhead.
+## Where Bootstrap Falls Short
 
-## Is Front-End Developement for Me?
+That said, Bootstrap is not without its drawbacks. For smaller projects, importing the full framework can feel unnecessarily heavy. Customizing beyond its default styles often requires overriding multiple classes, which can quickly become tedious and harder to maintain. Upgrading to newer versions also carries the risk of breaking existing code, adding refactoring overhead that may not always be worth the trade-off.
 
-  Although my experience with Bootstrap 5 has been challenging due to my relative inexperience, I thoroughly enjoyed bridging the gap between creativity and functionality. Reading articles like 7 Rules for Creating Gorgeous UI and Clean Up Your Mess: A Guide to Visual Design for Everyone helped me draw parallels between web design and my work at a print shop, where we carefully review digital designs for errors before printing. Similarly, in front-end development, I must ensure that the output matches the envisioned result.
+## Front-End Development and Me
 
-Overall, this experience has reinforced my interest in front-end development, and I am excited to continue learning, particularly as we move into more functionality-focused aspects of the course.
+Despite these challenges, I found myself genuinely enjoying the process of bridging creativity and functionality. Reading pieces like 7 Rules for Creating Gorgeous UI and Clean Up Your Mess: A Guide to Visual Design for Everyone helped me draw an unexpected parallel to my work at a print shop, where carefully reviewing a digital design before it goes to print is essential — any error that slips through becomes permanent. Front-end development carries a similar responsibility: the output on screen must match what was envisioned, and the details matter. That connection made the work feel less abstract and more purposeful.
+
+---
+Note: AI tools were used to support my writing process in this essay, mainly to improve clarity and refine wording. However, all ideas and concepts presented are my own.
 
 
 

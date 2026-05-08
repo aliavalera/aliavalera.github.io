@@ -9,13 +9,19 @@ labels:
   - Reflection of Coding Standards 
 ---
 
-<img width="340px" class="rounded float-start pe-4" src="../img/iwabird.png">
+<img width="340px" class="rounded float-start pe-4" src="../img/eslint/iwabird.png">
 
-Using ESLint with VSCode has changed the way I write code. At first, I felt frustrated by all the warnings and errors. I quickly realized they help me catch patterns I might miss and guide me toward cleaner, more consistent code. Each suggestion sharpens my habits and gradually makes my programs easier to read and maintain.
+## First Impressions: Frustration Before Understanding
 
-At the same time, ESLint can slow me down. I sometimes spend more time fixing style issues than focusing on core logic. It feels like a double-edged sword because it enforces professionalism while adding small obstacles in my learning process. Even so, these challenges teach me to think critically about every line I write.
+Using ESLint with VSCode has meaningfully changed the way I write code. At first, I felt frustrated by the constant stream of warnings and errors appearing as I typed — it felt less like assistance and more like criticism. Over time, however, I began to recognize that each flag was pointing me toward something I had overlooked. ESLint helped me catch patterns I might have otherwise missed and guided me toward writing cleaner, more consistent code. Each suggestion, no matter how minor it seemed, gradually sharpened my habits and made my programs easier to read and maintain.
 
-I see ESLint as a tool I need to practice with more to fully understand its recommendations. It pushes me to think carefully about my code and focus on building programs that work as intended. The more I work with it, the more it feels like a guide rather than a burden and shapes me into a more thoughtful and capable programmer.
+## The Double-Edged Sword
+
+At the same time, ESLint can slow me down in ways that feel counterproductive. There are moments where I find myself spending more time resolving style warnings than focusing on the core logic of what I am trying to build. It can feel like a double-edged sword — on one side, it enforces professionalism and consistency; on the other, it introduces small but persistent obstacles that interrupt my flow, especially early in the learning process. Still, I have come to believe that these interruptions are not wasted time. Being forced to stop and ask why a line is flagged teaches me to think critically about every decision I make as a programmer, rather than writing code on autopilot.
+
+## ESLint as a Mentor, Not a Gatekeeper
+
+What has shifted my perspective most is thinking of ESLint not as a gatekeeper blocking my progress, but as a mentor guiding me toward better practices. Much like how a language instructor corrects grammar not to discourage a student but to build stronger foundations, ESLint surfaces issues early so they do not become deeply ingrained habits. The more I work with it, the more natural its recommendations feel — less like rules imposed from the outside and more like instincts I am slowly developing from within. I still have much to learn about its full range of capabilities, but I now approach each warning with curiosity rather than frustration. Over time, ESLint has helped shape me into a more thoughtful and deliberate programmer.
 
 --- 
 

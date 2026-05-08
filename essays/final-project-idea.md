@@ -9,14 +9,14 @@ labels:
 ---
 <div class="row" style="display: flex; margin-top: 40px; margin-bottom: 40px;">
   <div class="col">
-    <img width="200px" class="rounded mx-auto d-block" src="../img/discussion.jpg">
+    <img width="200px" class="rounded mx-auto d-block" src="../img/finalProjectIdea//discussion.jpg">
   </div>
 </div>
 
 ## Project: Study Guide (WIP)
 
 ### Authors
-Michaela Gillan, Khloe Valera, Marie Wong
+Michaela Gillan, Khloe Valera, Marie Wong, Noah Asano, Seonwoo Kim
 
 ### Overview
 *The problem*: Every semester students are forced to jump into new topics. They sometimes don’t know exactly what and how to study to optimize their time and efforts, and may not know what they’re signing up for before registering. 
