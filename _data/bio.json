@@ -23,11 +23,15 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Typscript", "HTML", "CSS" ]
+      "keywords": [ "C", "C++", "Java", "JavaScript", "TypeScript", "HTML", "CSS", "React", "Next.js", "Bootstrap", "React Bootstrap" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "GCC(g++)"]
+      "keywords": [ "MacOS", "Ubuntu", "GCC(g++)", "GitHub Actions"]
+    },
+    {
+      "name": "Databases and Backend",
+      "keywords": [ "PostgreSQL", "Prisma ORM", "NextAuth.js" ]
     }
   ],
   "education": [
@@ -69,11 +73,13 @@
         "Operate print machines and perform finishing tasks",
         "Assist customers with orders and maintain equipment"
       ]
-    },
+    }
   ],
   "references": [
     {
-      "name": "Available upon request"
+      "name": "Alyssa ʻĀnela Purcell",
+      "title": "PhD Candidate in Political Science, UH Mānoa",
+      "email": "anap9@hawaii.edu"
     }
   ]
 }
