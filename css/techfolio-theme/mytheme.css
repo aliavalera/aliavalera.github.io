@@ -3,29 +3,30 @@
 @import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@0,300;0,400;0,500;1,300;1,400&display=swap');
 
 :root {
-  --tf-blue1: #4f7942;
-  --tf-blue2: #a8c5a0;
-  --tf-blue3: #3d2008;
-  --tf-blue4: #f6faf4;
+  --tf-brown-dark: #7a3b1e;
+  --tf-brown-mid: #a0724d;
+  --tf-brown-light: #f0e0d0;
+  --tf-cream: #fdf8f3;
+  --tf-cream-warm: #fdf3ea;
   --bs-font-sans-serif: "DM Sans", sans-serif;
-  --bs-link-color: var(--tf-blue3);
-  --tf-pill-bg: var(--tf-blue1);
-  --tf-icon-fill: var(--tf-blue3);
-  --tf-icon-hover: var(--tf-blue1);
-  --tf-page-bg-color: white;
-  --tf-footer-bg-color: white;
-  --tf-projects-bg-color: var(--tf-blue4);
+  --bs-link-color: var(--tf-brown-dark);
+  --tf-pill-bg: var(--tf-brown-mid);
+  --tf-icon-fill: var(--tf-brown-dark);
+  --tf-icon-hover: var(--tf-brown-mid);
+  --tf-page-bg-color: var(--tf-cream);
+  --tf-footer-bg-color: var(--tf-cream);
+  --tf-projects-bg-color: var(--tf-cream-warm);
 }
 
 h1, h2, h3, h4, h5 {
-  color: var(--tf-blue3);
+  color: var(--tf-brown-dark);
   font-family: "DM Sans", sans-serif;
   font-weight: 500;
 }
 
 .tf-social {
   display: inline-block;
-  fill: var(--tf-blue3);
+  fill: var(--tf-brown-dark);
   height: 1.5em;
   vertical-align: -.1em;
   width: 1.5em;
@@ -33,7 +34,7 @@ h1, h2, h3, h4, h5 {
 }
 
 .tf-social:hover {
-  fill: var(--tf-blue1);
+  fill: var(--tf-brown-mid);
 }
 
 a {
@@ -50,32 +51,40 @@ a {
 }
 
 .rounded-circle {
-  border-color: var(--tf-blue2);
+  border-color: var(--tf-brown-light);
   border-style: solid;
-  border-width: 1px;
+  border-width: 2px;
 }
 
 .navbar {
-  background-color: white !important;
-  border-color: rgba(61, 32, 8, 0.1) !important;
+  background-color: var(--tf-cream) !important;
+  border-color: #e8d5c0 !important;
 }
 
 .navbar-brand {
-  color: var(--tf-blue3);
+  color: var(--tf-brown-dark);
   font-family: "DM Sans", sans-serif;
   font-weight: 500;
 }
 
 .navbar-brand:hover {
-  color: var(--tf-blue1);
+  color: var(--tf-brown-mid);
 }
 
 .nav-link {
-  color: var(--tf-blue3) !important;
+  color: var(--tf-brown-dark) !important;
   font-size: 0.9rem;
   padding-left: 1rem !important;
+  opacity: 0.8;
 }
 
 .nav-link:hover {
-  color: var(--tf-blue1) !important;
+  color: var(--tf-brown-mid) !important;
+  opacity: 1;
+}
+
+.badge {
+  background-color: var(--tf-brown-light) !important;
+  color: var(--tf-brown-dark) !important;
+  font-weight: 500 !important;
 }
