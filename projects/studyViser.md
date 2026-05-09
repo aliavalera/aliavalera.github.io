@@ -14,8 +14,8 @@ labels:
 summary: "A collaborative web application developed in ICS 314 for creating and sharing study materials through an extra-credit incentive system."
 ---
 
-<img class="img-fluid" src="img/studyViser/studentDB.png">
-<img class="img-fluid" src="img/studyViser/Login.png">
+<img class="img-fluid" src="../img/studyViser/studentDB.png">
+<img class="img-fluid" src="../img/studyViser/Login.png">
 
 StudyViser is a collaborative web application that my team and I developed for ICS 314 in Spring 2026. The platform allows students to create and share study materials for their courses while earning extra credit through instructor-approved contributions. It also gives students a centralized place to access organized course resources and better understand course expectations.
 
