@@ -1,34 +1,32 @@
 /* My Theme */
 
-/* Use Open Sans as the default font. */
 @import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Gelasio:ital,wght@0,400..700;1,400..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&display=swap');
 
-/* See https://getbootstrap.com/docs/5.2/customize/css-variables/#root-variables for variables to override. */
 :root {
-  --tf-blue1: #4f7942;
-  --tf-blue2: #7dc6db;
-  --tf-blue3: #5a2800;
-  --tf-blue4: #ddeece;
-  --bs-font-sans-serif: "Gelasio", sans-serif;
-  --bs-link-color: var(--tf-blue3);;
-  --tf-pill-bg: var(--tf-blue1);
-  --tf-icon-fill: black;
-  --tf-icon-hover: var(--tf-blue2);
+  --kv-brown: #5a2800;
+  --kv-green: #4f7942;
+  --kv-green-light: #f6faf4;
+  --kv-accent: #7dc6db;
+  --bs-font-sans-serif: "Inter", sans-serif;
+  --bs-link-color: var(--kv-brown);
+  --tf-pill-bg: var(--kv-green);
+  --tf-icon-fill: var(--kv-brown);
+  --tf-icon-hover: var(--kv-green);
   --tf-page-bg-color: white;
-  --tf-footer-bg-color:white;
-  --tf-projects-bg-color: var(--tf-blue4);
+  --tf-footer-bg-color: white;
+  --tf-projects-bg-color: var(--kv-green-light);
 }
 
-h1,h2,h3,h4,h5 {
-  color: var(--tf-blue3);
-  font-family: "Gelasio", serif;
+h1, h2, h3, h4, h5 {
+  color: var(--kv-brown);
+  font-family: "Lora", serif;
+  font-weight: 500;
 }
 
-/* Format social media icons */
 .tf-social {
   display: inline-block;
-  fill: var(--tf-blue3);
+  fill: var(--kv-brown);
   height: 1.5em;
   vertical-align: -.1em;
   width: 1.5em;
@@ -36,7 +34,8 @@ h1,h2,h3,h4,h5 {
 }
 
 .tf-social:hover {
-  fill: var(--tf-icon-hover);
+  fill: var(--kv-green);
+  opacity: 0.8;
 }
 
 a {
@@ -54,7 +53,8 @@ a {
 }
 
 .rounded-circle {
-  border-color: var(--tf-blue3);
+  border-color: var(--kv-brown);
   border-style: solid;
   border-width: 1px;
+  opacity: 0.9;
 }
