@@ -1,31 +1,29 @@
 /* My Theme */
 
-/* Use Open Sans as the default font. */
 @import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Gelasio:ital,wght@0,400..700;1,400..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&display=swap');
 
-/* See https://getbootstrap.com/docs/5.2/customize/css-variables/#root-variables for variables to override. */
 :root {
---tf-blue1: #4f7942;    
---tf-blue2: #a8c5a0;    
---tf-blue3: #3d2008;    
---tf-blue4: #f6faf4;    
-  --bs-font-sans-serif: "Lora", sans-serif;
-  --bs-link-color: var(--tf-blue3);;
+  --tf-blue1: #4f7942;
+  --tf-blue2: #a8c5a0;
+  --tf-blue3: #3d2008;
+  --tf-blue4: #f6faf4;
+  --bs-font-sans-serif: "Inter", sans-serif;
+  --bs-link-color: var(--tf-blue3);
   --tf-pill-bg: var(--tf-blue1);
-  --tf-icon-fill: black;
+  --tf-icon-fill: var(--tf-blue3);
   --tf-icon-hover: var(--tf-blue2);
   --tf-page-bg-color: white;
-  --tf-footer-bg-color:white;
+  --tf-footer-bg-color: white;
   --tf-projects-bg-color: var(--tf-blue4);
 }
 
-h1,h2,h3,h4,h5 {
+h1, h2, h3, h4, h5 {
   color: var(--tf-blue3);
-  font-family: "Gelasio", serif;
+  font-family: "Lora", serif;
+  font-weight: 500;
 }
 
-/* Format social media icons */
 .tf-social {
   display: inline-block;
   fill: var(--tf-blue3);
@@ -36,7 +34,7 @@ h1,h2,h3,h4,h5 {
 }
 
 .tf-social:hover {
-  fill: var(--tf-icon-hover);
+  fill: var(--tf-blue2);
 }
 
 a {
@@ -47,7 +45,6 @@ a {
   .navbar-brand {
     display: none;
   }
-
   .navbar-brand-mobile {
     display: inline;
   }
