@@ -9,6 +9,8 @@ labels:
   - Reflection on Software Engineering
 ---
 
+<img width="340px" class="rounded float-start pe-4" src="../img/softwareEngineering/SEPic.webp">
+
 ## Reflecting on Software Engineering
 
 Before taking ICS 314, I honestly thought software engineering was mostly just about coding and making programs work. My previous programming classes focused heavily on syntax, algorithms, and completing assignments individually, so I viewed development as something mostly technical and independent. After taking this course, I realized software engineering is much more than writing code. It involves teamwork, communication, planning, organization, adaptability, and building systems that other people can understand and continue developing over time. Although our class focused on web application development, the biggest lessons I learned were about how software is created collaboratively in real-world environments.

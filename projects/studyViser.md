@@ -13,15 +13,32 @@ labels:
   - Software Developement
 summary: "A collaborative web application developed in ICS 314 for creating and sharing study materials through an extra-credit incentive system."
 ---
-
-<img class="img-fluid" width="300px" src="../img/studyViser/studentDB.png">
-<img class="img-fluid" width="300px" src="../img/studyViser/Login.png">
+<div class="row" style="display: flex; margin-top: 40px; margin-bottom: 40px;">
+  <div class="col">
+    <img width="500px" class="rounded mx-auto d-block" src="../img/studyViser/Login.png">
+  </div>
+  <div class="col">
+      <img width="300px" class="rounded mx-auto d-block" src="../img/studyViser/register1.png">
+  </div>
+    <div class="col">
+      <img width="300px" class="rounded mx-auto d-block" src="../img/studyViser/register2.png">
+  </div>
+</div>
 
 ## Introduction to StudyViser
 StudyViser is a collaborative web application that my team and I developed for ICS 314 during Spring 2026. The platform was designed to help students create, organize, and share study materials for their courses in a centralized and accessible way. In addition to improving access to course resources, StudyViser also allows students to earn extra credit through instructor-approved contributions such as glossary definitions and study submissions. The goal of the platform was to encourage collaboration while making course expectations and learning materials easier to understand and navigate.
 
 ## Technologies and Development
 The project was built using modern full-stack web development technologies including Next.js and React for the frontend, Bootstrap 5 and React Bootstrap for responsive user interface design, and PostgreSQL with Prisma for database management and data modeling. Authentication and user session management were implemented using NextAuth.js, while React Hook Form was used to manage forms, user input, and validation. Throughout development, we focused on creating a clean and responsive interface that could support different types of users, including students and instructors.
+
+<div class="row" style="display: flex; margin-top: 40px; margin-bottom: 40px;">
+  <div class="col">
+    <img width="300px" class="rounded mx-auto d-block" src="../img/studyViser/studentDB.png">
+  </div>
+  <div class="col">
+      <img width="300px" class="rounded mx-auto d-block" src="../img/studyViser/instructorDB.png">
+  </div>
+</div>
 
 ## My Contributions
 My main contributions to the project focused on frontend development, form integration, and connecting user interactions with backend functionality. I worked on creating and styling several important forms within the application, including the course joining form, glossary term submission form, and student definition submission form. I also helped connect static pages to live database data so that information displayed dynamically based on the logged-in user and their enrolled courses.
