@@ -11,7 +11,7 @@
   --bs-link-color: var(--tf-blue3);
   --tf-pill-bg: var(--tf-blue1);
   --tf-icon-fill: var(--tf-blue3);
-  --tf-icon-hover: var(--tf-blue2);
+  --tf-icon-hover: var(--tf-blue1);
   --tf-page-bg-color: white;
   --tf-footer-bg-color: white;
   --tf-projects-bg-color: var(--tf-blue4);
@@ -19,7 +19,7 @@
 
 h1, h2, h3, h4, h5 {
   color: var(--tf-blue3);
-  font-family: "DM Sans", serif;
+  font-family: "DM Sans", sans-serif;
   font-weight: 500;
 }
 
@@ -33,7 +33,7 @@ h1, h2, h3, h4, h5 {
 }
 
 .tf-social:hover {
-  fill: var(--tf-blue2);
+  fill: var(--tf-blue1);
 }
 
 a {
@@ -50,7 +50,7 @@ a {
 }
 
 .rounded-circle {
-  border-color: var(--tf-blue3);
+  border-color: var(--tf-blue2);
   border-style: solid;
   border-width: 1px;
 }
@@ -62,7 +62,7 @@ a {
 
 .navbar-brand {
   color: var(--tf-blue3);
-  font-family: "DM Sans", serif;
+  font-family: "DM Sans", sans-serif;
   font-weight: 500;
 }
 
