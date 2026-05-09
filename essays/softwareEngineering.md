@@ -9,7 +9,7 @@ labels:
   - Reflection on Software Engineering
 ---
 
-<img width="340px" class="rounded float-start pe-4" src="../img/softwareEngineering/SEPic.webp">
+<img width="340px" class="rounded float-start pe-4" src="../img/softwareEngineering/sep.avif">
 
 ## Reflecting on Software Engineering
 
