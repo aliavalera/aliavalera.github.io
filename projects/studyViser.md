@@ -10,7 +10,7 @@ labels:
   - React
   - PostgreSQL
   - Prisma
-  - Software Developement
+  - Software Development
 summary: "A collaborative web application developed in ICS 314 for creating and sharing study materials through an extra-credit incentive system."
 ---
 
@@ -20,13 +20,15 @@ StudyViser is a collaborative web application that my team and I developed for I
 ## Technologies and Development
 The project was built using modern full-stack web development technologies including Next.js and React for the frontend, Bootstrap 5 and React Bootstrap for responsive user interface design, and PostgreSQL with Prisma for database management and data modeling. Authentication and user session management were implemented using NextAuth.js, while React Hook Form was used to manage forms, user input, and validation. Throughout development, we focused on creating a clean and responsive interface that could support different types of users, including students and instructors.
 
-<img width="500px" class="rounded mx-auto d-block" src="../img/studyViser/Login.png">
-<div class="row" style="display: flex; margin-top: 40px; margin-bottom: 40px;">
+<div class="row my-4">
   <div class="col">
-      <img width="500px" class="rounded mx-auto d-block" src="../img/studyViser/register1.png">
+    <img width="350px" class="rounded mx-auto d-block" src="../img/studyViser/Login.png">
   </div>
-    <div class="col">
-      <img width="500px" class="rounded mx-auto d-block" src="../img/studyViser/register2.png">
+  <div class="col">
+    <img width="350px" class="rounded mx-auto d-block" src="../img/studyViser/register1.png">
+  </div>
+  <div class="col">
+    <img width="350px" class="rounded mx-auto d-block" src="../img/studyViser/register2.png">
   </div>
 </div>
 
@@ -35,12 +37,12 @@ My main contributions to the project focused on frontend development, form integ
 
 In addition, I contributed to features related to course enrollment, glossary term management, and the student dashboard experience. This included helping implement workflows where students could submit study material for instructor approval and receive extra credit once approved. I also worked on improving the user interface design and overall user experience by refining layouts, styling components, and organizing information in a way that felt intuitive and visually cohesive.
 
-<div class="row" style="display: flex; margin-top: 40px; margin-bottom: 40px;">
+<div class="row my-4">
   <div class="col">
-    <img width="300px" class="rounded mx-auto d-block" src="../img/studyViser/studentDB.png">
+    <img width="350px" class="rounded mx-auto d-block" src="../img/studyViser/studentDB.png">
   </div>
   <div class="col">
-      <img width="300px" class="rounded mx-auto d-block" src="../img/studyViser/instructorDB.png">
+    <img width="350px" class="rounded mx-auto d-block" src="../img/studyViser/instructorDB.png">
   </div>
 </div>
 
