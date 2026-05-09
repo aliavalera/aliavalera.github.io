@@ -12,7 +12,7 @@ labels:
 summary: "This program I developed in ICS 212 calculates and displays the radius, area, surface area, and volume for Circle and Cylinder objects."
 ---
 
-<img class="img-fluid" src="../img/circleCylinder/SurfaceArea.png">
+<img class="img-fluid" width="350px" src="../img/circleCylinder/SurfaceArea.png">
 
 Circle and Cylinder is a C++ project I developed to practice object-oriented programming and explore inheritance and method overriding. The program models circle and cylinder classes, calculates area, surface area, and volume, and automatically corrects invalid inputs like negative or zero values. 
 
