@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/sVLogo.png
+image: img/studyViser/sVLogo.png
 title: "Final Project StudyViser"
 date: 2026-05-08
 published: true
