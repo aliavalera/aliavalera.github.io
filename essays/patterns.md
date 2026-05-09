@@ -18,7 +18,7 @@ What I’ve started to realize is that most of these problems aren’t new at al
 Design patterns aren’t code you copy. They’re general ways of organizing a system so it stays flexible and easier to maintain. They give structure to decisions that might otherwise feel random.
 
 
-## From Chaos to Structure: Design Patterns in Practice
+## From Chaos to Structure
 
 In our final project, we didn’t start with design patterns in mind. We were mostly focused on getting features done. Early on, we approached issues pretty randomly—each of us would pick up a task without necessarily understanding how it connected to the rest of the system.
 
@@ -33,7 +33,7 @@ We ran into a similar issue when trying to extend functionality. Our first insti
 This is essentially the idea behind the Decorator Pattern.
 
 
-## What This Means in Practice
+## Design Patterns in Practice
 
 What stood out to me is that we didn’t “invent” these solutions. We arrived at them because the problems pushed us in that direction. The patterns simply give a name and structure to those decisions.
 

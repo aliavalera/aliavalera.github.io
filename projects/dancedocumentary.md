@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/interviewSquare.webp
+image: img/danceDocumentary/interviewSquare.webp
 title: "Dance Documentary"
 date: 2025-10-28
 published: true
@@ -12,8 +12,8 @@ summary: "Interview-based dance documentary produced in my DNCE 362 course that 
 ---
 
 <div class="text-center p-4">
-  <img width="700px" src="../img/interviewpic.png" class="img-thumbnail" >
-  <img width="350px" src="../img/documentarypic.png" class="img-thumbnail" >
+  <img width="700px" src="../img/danceDocumentary/interviewpic.png" class="img-thumbnail" >
+  <img width="350px" src="../img/danceDocumentary/documentarypic.png" class="img-thumbnail" >
 </div>
 
 # Guidlines
