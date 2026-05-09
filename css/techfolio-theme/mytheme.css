@@ -1,14 +1,13 @@
 /* My Theme */
 
-@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@0,300;0,400;0,500;1,300;1,400&display=swap');
 
 :root {
   --tf-blue1: #4f7942;
   --tf-blue2: #a8c5a0;
   --tf-blue3: #3d2008;
   --tf-blue4: #f6faf4;
-  --bs-font-sans-serif: "Inter", sans-serif;
+  --bs-font-sans-serif: "DM Sans", sans-serif;
   --bs-link-color: var(--tf-blue3);
   --tf-pill-bg: var(--tf-blue1);
   --tf-icon-fill: var(--tf-blue3);
@@ -20,7 +19,7 @@
 
 h1, h2, h3, h4, h5 {
   color: var(--tf-blue3);
-  font-family: "Lora", serif;
+  font-family: "DM Sans", serif;
   font-weight: 500;
 }
 
@@ -63,7 +62,7 @@ a {
 
 .navbar-brand {
   color: var(--tf-blue3);
-  font-family: "Lora", serif;
+  font-family: "DM Sans", serif;
   font-weight: 500;
 }
 
