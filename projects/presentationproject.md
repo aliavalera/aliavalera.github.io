@@ -13,15 +13,15 @@ summary: "A presentation of my research and analysis on data regarding Hawaiʻi'
 ---
 
 <div class="text-center p-4">
-  <img width="300px" src="../img/presentation/prespic1.png" >
+  <img width="450px" src="../img/presentation/prespic1.png" >
 </div>
 
 ## Five Weeks of Research
 During my POLS 302 course on Native Hawaiian Politics, I was given an opportunity to present a related topic of my choosing to the class. For five weeks, I explored material related to Hawaiʻi’s economy and came to see how imperative it is to diversify it in a way that keeps Hawaiian perspectives at the center. I researched different strategies like tourism, agriculture, renewable energy, and technology, looking at both the opportunities and the cultural or ecological impacts. I contributed by gathering sources, analyzing policies, and summarizing ideas about sustainability and equity, which helped me connect research with real-world applications.
 
 <div class="text-center p-4">
-  <img width="300px" src="../img/presentation/prespic2.png">
-  <img width="300px" src="../img/presentation/prespic3.png">
+  <img width="400px" src="../img/presentation/prespic2.png" class="mx-3">
+  <img width="400px" src="../img/presentation/prespic3.png" class="mx-3">
 </div>
 
 ## Weaving It Together
@@ -29,4 +29,4 @@ In the book _He Lei Aloha ʻĀina_, Mehana Blaich Vaughan likens her research to
 
 <hr>
 
-View <a href="https://canva.link/kumupresentation">Presentation</a>
+View presentation <a href="https://canva.link/kumupresentation">here.</a>
