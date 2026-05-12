@@ -9,7 +9,7 @@ labels:
   - Reflection on AI Use in ICS 314 
 ---
 
-<img width="500px" class="rounded float-start pe-4" src="../img/AIUse/aimeme.jpg">
+<img width="400px" class="rounded float-start pe-4" src="../img/AIUse/aimeme.jpg">
 
 ## I. Introduction
 
