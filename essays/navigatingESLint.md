@@ -6,7 +6,7 @@ title: "Navigating ESLint"
 date: 2026-02-11
 published: true
 labels:
-  - Reflection of Coding Standards 
+  - Reflection on Coding Standards 
 ---
 
 <img width="340px" class="rounded float-start pe-4" src="../img/eslint/iwabird.png">
